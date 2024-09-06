@@ -1,0 +1,36 @@
+_repo: Legends-and-tales-of-the-Harz-Mountains_74323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lauder, Toofie
+    aliases:
+    - Lauder, Maria Elise Turner de Touffe
+    - Lauder, Marie Elise T. T. (Marie Elise Turner T.)
+    birthdate: 1833
+    deathdate: 1922
+    gutenberg_agent_id: '57445'
+    url: http://www.gutenberg.org/2009/agents/57445
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Maria_Elise_Turner_Lauder
+    - https://en.wikipedia.org/wiki/Maria_Elise_Turner_Lauder
+description: ''
+gutenberg_issued: '2024-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74323'
+  lccn: '14017800'
+language: en
+pgterms:marc905: 20240819195235lauder
+pgterms:marc906: '1881'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bHodder and Stoughton, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Germany -- Harz Mountains'
+- !lcc 'PT'
+- GITenberg
+title: Legends and tales of the Harz Mountains
+url: http://www.gutenberg.org/ebooks/74323
